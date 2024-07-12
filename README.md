@@ -16,15 +16,29 @@ These are the following resources:
 - Presentation Slides: [Google Slides - Presentation](https://docs.google.com/presentation/d/15UZ9iS4wCi7VxbSjMkXgDzJEjn3A3ldSFHWG_K04-L4/edit?usp=sharing)<br>
 - Interactive Dashboard: [Tableau Public - Dashboard](https://public.tableau.com/shared/Q8BSYKPRQ?:display_count=n&:origin=viz_share_link)<br>
 
-### **Tools Utilized:**
-- Google Colaboratory
-- Tableau for Data Visualization
-- Google Sheets
-- Google Slides
+### **Features:**
+- Data Cleaning and Preparation: Detailed steps for data preprocessing, including handling missing values, outlier detection, and data normalization.
+- Exploratory Data Analysis (EDA): In-depth analysis of vehicle sales data to identify key trends, correlations, and patterns.
+- Visualization: Interactive and static visualizations to represent sales data effectively, using tools like Matplotlib, Seaborn, and Plotly.
 
-### **Skills:**
-1. Logical Thinking
-2. Analysis and Representaion
-3. Python
-4. Problem Solving
-5. Creativity
+### **Tools and Skills:**
+
+| **Tools Utilized**                  | **Skills**                 |
+|-------------------------------------|----------------------------|
+| Google Colaboratory                 | Logical Thinking           |
+| Tableau for Data Visualization      | Analysis and Representation|
+| Google Sheets                       | Python                     |
+| Google Slides                       | Problem Solving            |
+|                                     | Creativity                 |
+
+### **How to Use:**
+
+1. **Clone the Repository**: 
+   ```sh
+   git clone https://github.com/yourusername/vehicle-sales-data-analytics.git
+2. **Install Dependencies**:
+   Navigate to the project directory and run to install all necessary libraries:
+   ```sh
+   pip install -r requirements.txt
+4. **Run the Notebooks**: Open Jupyter Notebook and explore the provided notebooks to see the data analysis and visualizing steps in action.
+5. **Explore the Data**: Use the provided scripts and tools to conduct your own analysis on the vehicle sales data.
